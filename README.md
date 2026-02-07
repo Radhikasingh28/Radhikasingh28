@@ -1,5 +1,5 @@
 # 🌐 About Me:
-🔭 I’m currently working on Small web-based projects and solving LeetCode problems to strengthen my problem-solving and logic.<br> I’m looking to collaborate on<br>Beginner-friendly HTML, CSS, JavaScript projects and DSA practice groups.<br> I’m currently learning JavaScript, basic Java, Data Structures fundamentals, and coding interview logic.<br>💬 Ask me about:<br>LeetCode problem strategies, JavaScript basics, and building simple web apps.<br> Fun fact: I track my mistakes more seriously than my wins — that’s how I improve.
+ I’m currently working on Small web-based projects and solving LeetCode problems to strengthen my problem-solving and logic.<br> I’m looking to collaborate on<br>Beginner-friendly HTML, CSS, JavaScript projects and DSA practice groups.<br> I’m currently learning JavaScript, basic Java, Data Structures fundamentals, and coding interview logic.<br>💬 Ask me about:<br>LeetCode problem strategies, JavaScript basics, and building simple web apps.<br> Fun fact: I track my mistakes more seriously than my wins — that’s how I improve.
 
 
 ## 🌐 Socials:
