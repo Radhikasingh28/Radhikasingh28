@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/GitHub-13A697?style=flat-square&logo=github&logoColor=white" />
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Radhikasingh28&label=Visitors&color=13A697&style=flat-square" alt="Profile Views" />
+  <!-- <img src="https://komarev.com/ghpvc/?username=Radhikasingh28&label=Visitors&color=13A697&style=flat-square" alt="Profile Views" /> -->
 </p>
 
 ---
@@ -40,9 +40,7 @@
 ## Things I've Built
 
 ### 📚 AI -summary generator
-> Self-contained quiz platform for engineering students with a 225-question bank across 5 categories
-
-[![Repo](https://img.shields.io/badge/GitHub-PrepMaster-181717?style=flat-square&logo=github)](https://github.com/Radhikasingh28)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-AI%20Summary%20Generator-181717?style=flat-square&logo=github)](https://github.com/Radhikasingh28/ai-summary-generator)
 
 | Feature                                               | Tech                           |
 | ----------------------------------------------------- | ------------------------------ |
@@ -83,7 +81,6 @@
       <p>
         <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" />
-         <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" />
       </p>
     </td>
   </tr>
@@ -94,7 +91,6 @@
       <p>
         <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" />
         <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" />
-         <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" />
       </p>
     </td>
     <td width="50%" valign="top">
@@ -141,8 +137,8 @@
 ## By the Numbers
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Radhikasingh28&show_icons=true&hide_border=true&theme=graywhite&title_color=13A697&icon_color=13A697&text_color=333333" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radhikasingh28&layout=compact&hide_border=true&theme=graywhite&title_color=13A697&text_color=333333" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Radhikasingh28&show_icons=true&hide_border=true&theme=graywhite&title_color=13A697&icon_color=13A697&text_color=333333" height="165"/> 
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radhikasingh28&layout=compact&hide_border=true&theme=graywhite&title_color=13A697&text_color=333333" height="165"/>
 </p>
 
 <p align="center">
